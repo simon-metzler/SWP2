@@ -6,6 +6,6 @@ let c = a / b;
 console.log("The result of " + b + " divided by 3.9 is " + c)
 
 let firstname = "Simon";
-let lastname = "Metzler";
+let lastname = "MFetzler";
 
 console.log("Ich heiße " + firstname + " " + lastname)
