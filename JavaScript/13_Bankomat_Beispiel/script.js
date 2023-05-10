@@ -52,3 +52,4 @@ while (running){
     
 }
 
+readline.close();

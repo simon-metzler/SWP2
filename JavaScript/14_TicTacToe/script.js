@@ -103,3 +103,4 @@ while (checkWinner(field) != 1 && checkWinner(field) != 2){
 
 
 }
+readline.close();
